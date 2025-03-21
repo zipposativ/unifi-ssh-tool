@@ -8,7 +8,7 @@ Das Unifi SSH Tools Kit ermöglicht es Unifi Geräte in Masse zu verwalten und C
 
 # Installation
 
-1. Lade unter Releases die neueste Version als .zip Datei herunter. [Letzer Release](https://github.com/zipposativ/unifi-ssh-tool/releases/tag/latest)
+1. Lade unter Releases die neueste Version als .zip Datei herunter. [Letzer Release](https://github.com/zipposativ/unifi-ssh-tool/releases/latest)
 2. Enpacke das Verzeichnis. Im Verzeichnis liegen die `unifi-devices.csv` & die `unifi-ssh-tools-kit.exe`. 
 
 ## Beispiel: unifi-devices.csv
