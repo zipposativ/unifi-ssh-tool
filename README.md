@@ -20,7 +20,7 @@ ipv4
 10.20.255.3
 ```
 # SSH Zugangsdaten ermitteln
-Nachdem man sich bei dem Network Manager angemeldet hat wählt man seine Site aus. Hier Navigiert man bei der Unifi UDM oder Network Appliance zu `Settings > System > Advanced`. Findet man den Punkt: `Device Authentication` und dort sind die SSH Zugangsdaten aufgeführt.
+Nachdem man sich bei dem Network Manager angemeldet hat wählt man seine Site aus. Hier Navigiert man bei der Unifi UDM oder Network Appliance zu `Settings > System > Advanced`. Dort findet man den Punkt: `Device Authentication` und hier sind die SSH Zugangsdaten aufgeführt. Das Passwort muss erst angezeigt werden, damit man es kopieren kann.
 
 # Das Programm Ausführen
 1. Die `unifi-ssh-tools-kit.exe` muss ausgeführt werden.
