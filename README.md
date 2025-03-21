@@ -38,5 +38,5 @@ Nachdem man sich bei dem Network Manager angemeldet hat wählt man seine Site au
 |poweroff|Schaltet das Gerät aus (Muss manuell gestartet werden [Bei PoE Geräten= PoE Cycle]|
 |reboot|Startet das Gerät von Grundauf neu|
 |syswrapper.sh restore-default|Setzt das Gerät auf Werkseinstellung zurück|
-|set-inform + IPv4|Stellt eine Adopt Anfrage an die UDM oder Network Appliance|
+|set-inform + IPv4|Setzt den Controller fest auf die IPv4 Adresse und es wird nicht mehr im Netzwerk gesucht|
 |ip-a|Listet alle Netzwerk Interfaces mit MAC-Address, IPv4, IPv6 & State auf|
